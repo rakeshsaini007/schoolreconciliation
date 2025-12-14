@@ -1,0 +1,5 @@
+{
+  "name": "School Reconciliation Tool",
+  "description": "A tool to identify and download PDF reports of schools pending data submission.",
+  "requestFramePermissions": []
+}
